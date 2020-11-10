@@ -9,7 +9,7 @@ Avant de commencer, consultez les instructions à suivre dans [instructions.md](
 
 L'exercice à compléter est un exemple simplifié d'un problème d'intelligence artificielle. Vous devrez implémenter vous-même l'exercice de bout en bout.
 
-Vous disposez d'un ensemble de données (data/winequality-white.csv) qui contient plusieurs caractéristiques de vins dans le but d'en évaluer la qualité. Vous devez créer deux algorithmes d'intelligence artificielle qui prédira la qualité d'un vin selon les caractéristiques contenues dans le fichier. Vous devez aussi évaluer vos deux algorithmes et afficher dans des graphiques séparés le résultat de la prédiction de la qualité du vin. Finalement, vous devez utiliser l'erreur moyenne absolue pour évaluer les deux modèles.
+Vous disposez d'un ensemble de données (data/winequality-white.csv) qui contient plusieurs caractéristiques de vins dans le but d'en évaluer la qualité. Vous devez créer deux algorithmes d'intelligence artificielle qui prédiront la qualité d'un vin selon les caractéristiques contenues dans le fichier. Vous devez aussi évaluer vos deux algorithmes et afficher dans des graphiques séparés le résultat de la prédiction de la qualité du vin. Finalement, vous devez utiliser l'erreur moyenne absolue pour évaluer les deux modèles.
 
 Pour vous guider dans la résolution de ce problème, voici les quelques étapes que vous devriez suivre:
     
